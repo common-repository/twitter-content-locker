@@ -1,0 +1,15 @@
+.twitterlocker-box {
+	background-color: #E0ECEF;
+	border: 1px dashed #3B5998;
+	padding: 10px 20px;
+	color: #000;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;	
+	-moz-border-radius: 5px;
+	font-weight: bold;
+}
+.twitterlocker-box  div {
+	margin-top: 5px;
+}
